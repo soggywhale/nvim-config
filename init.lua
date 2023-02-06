@@ -107,9 +107,6 @@ vim.wo.number = true
 -- Enable mouse mode
 vim.o.mouse = 'a'
 
--- Enable syntax
-vim.o.syntax = true
-
 -- Enable break indent
 vim.o.breakindent = true
 
